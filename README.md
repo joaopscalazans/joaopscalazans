@@ -1,6 +1,6 @@
 # Olá, eu sou João Pedro
 
-Desenvolvedor Java focado em aplicações web.
+Desenvolvedor Java em início de carreira, com foco em backend e na construção de APIs REST utilizando Spring Boot. Tenho desenvolvido projetos práticos aplicando autenticação, modelagem de banco de dados e boas práticas de desenvolvimento
 
 ## Atualmente
 Desenvolvendo APIs REST com Spring Boot, utilizando autenticação com JWT e aplicando boas práticas de arquitetura e organização de código.

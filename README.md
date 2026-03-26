@@ -17,7 +17,7 @@ Desenvolvendo APIs REST com Spring Boot, utilizando autenticação com JWT e apl
 
 ## Badges
 
-![Introduction to Cybersecurity](https://www.credly.com/badges/81fa81a3-d237-4438-b120-7a96b5bf0e78/public_url)
+[![Introduction to Cybersecurity](assest/introduction-to-cybersecurity.png)](https://www.credly.com/badges/81fa81a3-d237-4438-b120-7a96b5bf0e78/public_url)
 
 
 ## Contato

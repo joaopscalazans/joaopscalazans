@@ -15,7 +15,7 @@ Desenvolvendo APIs REST com Spring Boot, utilizando autenticação com JWT e apl
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Bagdes
+## Badges
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="81fa81a3-d237-4438-b120-7a96b5bf0e78" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 

@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="assest/github-back.gif" width="600">
+</div>
+
 # Olá, eu sou João Pedro
 
 Esse GitHub é onde eu coloco tudo que construo — projetos, testes, ideias e experimentos.

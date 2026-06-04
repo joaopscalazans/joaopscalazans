@@ -8,7 +8,7 @@
 Esse GitHub é onde eu coloco tudo que construo — projetos, testes, ideias e experimentos.
 
 Atualmente estou focado em backend com Java e Spring Boot, criando APIs e estudando arquitetura de microsserviços.  
-Também faço integração dessas APIs com frontend usando Angular.
+Também faço integração dessas APIs com frameworks frontend.
 
 
 ## Tecnologias

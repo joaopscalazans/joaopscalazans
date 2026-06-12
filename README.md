@@ -7,10 +7,6 @@
 
 Esse GitHub é onde eu coloco tudo que construo — projetos, testes, ideias e experimentos.
 
-Atualmente estou focado em backend com Java e Spring Boot, criando APIs e estudando arquitetura de microsserviços.  
-Também faço integração dessas APIs com frameworks frontend.
-
-
 ## Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
